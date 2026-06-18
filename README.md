@@ -27,4 +27,4 @@ This project is developed using LPC1768 ARM Cortex-M3 microcontroller.
 - Keil uVision
 
 ## Author
-Sajith Rikky
+AKKULAYAPALLE SAJITH
